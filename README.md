@@ -2,6 +2,7 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Archana+%F0%9F%91%8B;ECE+Student+%7C+Aspiring+Developer;Exploring+DSA+%26+Full+Stack+Dev" />
 </p> -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Archanakaliappan/Archanakaliappan/main/Archana.gif" alt="Name Animation" width="50%" />
 </p>
