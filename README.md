@@ -1,6 +1,9 @@
 <!-- Typing Animation -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Archana+%F0%9F%91%8B;ECE+Student+%7C+Aspiring+Developer;Exploring+DSA+%26+Full+Stack+Dev" />
+</p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Archanakaliappan/Archanakaliappan/main/Archana.gif" alt="Name Animation" width="50%" />
 </p>
 
 <img align="right" width="240" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVkbWx4aXl6c202ZTI1cGZ1bDhsZm5hb3RkNjF2amRjbzA4bTFzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" />
